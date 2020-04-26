@@ -7,3 +7,4 @@
 4. Magic 8 ball
 5. Xylophone
 6. Quizzo (quizzler)
+7. Destiny
