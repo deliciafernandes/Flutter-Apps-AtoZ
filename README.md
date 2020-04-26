@@ -6,4 +6,4 @@
 3. Dice app
 4. Magic 8 ball
 5. Xylophone
-6. Quizzo
+6. Quizzo (quizzler)
