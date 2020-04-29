@@ -1,0 +1,27 @@
+import 'package:flutter/material.dart';
+import 'package:navigation_demo_starter/screen1.dart';
+
+class Screen2 extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        backgroundColor: Colors.blue,
+        title: Text('Screen 2'),
+      ),
+      body: Center(
+        child: RaisedButton(
+          color: Colors.blue,
+          child: Text('Go Back To Screen 1'),
+          onPressed: () {
+            //limited screens method
+            Navigator.pop(
+              context,
+              MaterialPageRoute(builder: (context) => Screen1()),
+            );
+          },
+        ),
+      ),
+    );
+  }
+}
