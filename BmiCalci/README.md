@@ -4,5 +4,5 @@ A Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Va
 
 > Result:
 
-![alt text](https://github.com/deliciafernandes/Dels-app-directory/blob/master/BmiCalci/assests/images/result.gif)
+![alt text](https://github.com/deliciafernandes/Dels-app-directory/blob/master/BmiCalci/assets/images/result.gif)
 
