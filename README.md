@@ -9,3 +9,4 @@
 6. Quizzo (quizzler)
 7. Destiny
 8. Navigation routing
+9. BMI Calculator

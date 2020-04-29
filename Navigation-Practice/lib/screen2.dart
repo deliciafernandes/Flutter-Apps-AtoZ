@@ -15,10 +15,7 @@ class Screen2 extends StatelessWidget {
           child: Text('Go Back To Screen 1'),
           onPressed: () {
             //limited screens method
-            Navigator.pop(
-              context,
-              MaterialPageRoute(builder: (context) => Screen1()),
-            );
+            Navigator.pop(context);
           },
         ),
       ),
