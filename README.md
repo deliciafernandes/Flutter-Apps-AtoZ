@@ -12,3 +12,4 @@
 9.  BMI Calculator
 10. Credit demo
 11. Raincheck!
+12. getCoin
