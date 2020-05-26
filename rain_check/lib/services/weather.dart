@@ -1,7 +1,7 @@
 import 'package:raincheck/services/networking.dart';
 import 'location.dart';
 
-const apiKey = 'dd406daf34c2b63ba7ff80d62ea13d83';
+const apiKey = 'Input Api Key';
 const openWeatherURL = 'https://api.openweathermap.org/data/2.5/weather';
 
 class WeatherModel {
