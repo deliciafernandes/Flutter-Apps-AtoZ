@@ -15,3 +15,4 @@
 12. getCoin
 13. Flash Chat
 14. Productivity
+15. Localization Demo
