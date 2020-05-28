@@ -1,9 +1,10 @@
 # localedemo
 
+>Note:
 
-Container(
-height: MediaQuery.of(context).height,
-widht: MediaQuery.of(context).widht,
-)
+Container( </br>
+height: MediaQuery.of(context).size.height, </br>
+widht: MediaQuery.of(context).size.widht, </br>
+)</br>
 
-Use media Query for potrait and landscape adjustment
+Use Media Query for potrait and landscape adjustment.
