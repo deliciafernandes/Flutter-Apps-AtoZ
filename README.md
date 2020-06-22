@@ -16,3 +16,6 @@
 13. Flash Chat
 14. Productivity
 15. Localization Demo
+
+## Note: 
+Checkout the result of each app inside it's respective folder!
