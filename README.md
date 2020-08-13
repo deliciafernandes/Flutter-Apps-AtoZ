@@ -1,8 +1,8 @@
-# Dels-app-directory
+# Dels App Directory
 
-> List of apps:
-1.  I am rich app
-2.  Business card app
+> List of Apps:
+1.  [I am rich app](i_am_rich)
+2.  [Business card app](mi_card_flutter)
 3.  Dice app
 4.  Magic 8 ball
 5.  Xylophone
