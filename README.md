@@ -1,6 +1,7 @@
-# Dels App Directory
+# Dels App Directory :iphone: :cowboy_hat_face:
 
-> List of Apps:
+**List of Apps:**
+
 1.  [I am rich app](i_am_rich)
 2.  [Business card app](mi_card_flutter)
 3.  Dice app
