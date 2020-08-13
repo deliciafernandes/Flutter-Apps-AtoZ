@@ -1,4 +1,4 @@
-# Dels App Directory :iphone: :cowboy_hat_face:
+# Dels App Directory :iphone::cowboy_hat_face:
 
 **List of Apps:**
 
