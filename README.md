@@ -3,21 +3,21 @@ Beginners Flutter Toolkit : From UI basics to Firebase Integration
 
 **List of Apps:**
 
-1.  [Iconic 'I am rich' App](i_am_rich)
-2.  [Custom Business Card App](mi_card_flutter)
-3.  [Dice App](dice)
-4.  [Magic 8 ball App](magic-8-ball)
-5.  [Xylophone App](xylophone)
-6.  [Quizzo Quiz App](quizzler)
-7.  [Destiny Quiz App](destiny)
-8.  [Flutter Navigation routing](Navigation-Practice)
-9.  [BMI Calculator App](BmiCalci)
-10. [Credit Card App](kasharedemo)
-11. [Raincheck! Weather App](rain_check)
-12. [getCoin Bitcoin Trade App](getcoin)
-13. [Flash Chat App](flash)
-14. [Productivity NoteTaking App](productivity)
-15. [Localization Demo - Language settings in an app](locale_demo)
+1.  [Iconic 'I am rich' App :dollar:](i_am_rich)
+2.  [Custom Business Card App :bowtie:](mi_card_flutter)
+3.  [Dice App :game_die:](dice)
+4.  [Magic 8 ball App :8ball:](magic-8-ball)
+5.  [Xylophone App :notes:](xylophone)
+6.  [Quizzo Quiz App :grey_question:](quizzler)
+7.  [Destiny Quiz App :sparkles:](destiny)
+8.  [Flutter Navigation routing :compass:](Navigation-Practice)
+9.  [BMI Calculator App :heavy_division_sign:](BmiCalci)
+10. [Credit Card App :credit_card:](kasharedemo)
+11. [Raincheck! Weather App :cloud_with_rain:](rain_check)
+12. [getCoin Bitcoin Trading App :currency_exchange:](getcoin)
+13. [Flash Chat App :speech_balloon:](flash)
+14. [Productivity NoteTaking App :spiral_notepad:](productivity)
+15. [Localization Demo - Language settings in an app :india:	](locale_demo)
 
 ## Note: 
 Checkout the result of each app inside it's respective folder!
