@@ -19,4 +19,4 @@
 15. [Localization Demo - Language settings in an app :india:	](locale_demo)
 
 **Note:**
-Checkout the result of each app inside it's respective folder!
+Checkout the result/final output image of each app inside it's respective folder!
