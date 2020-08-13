@@ -1,8 +1,7 @@
 # Dels App Directory :iphone::cowboy_hat_face:
-Beginners Flutter Toolkit : From UI basics to Firebase Integration
+**_Beginners Flutter Toolkit : From UI basics to Firebase Integration_**
 
 **List of Apps:**
-
 1.  [Iconic 'I am rich' App :dollar:](i_am_rich)
 2.  [Custom Business Card App :bowtie:](mi_card_flutter)
 3.  [Dice App :game_die:](dice)
@@ -19,5 +18,5 @@ Beginners Flutter Toolkit : From UI basics to Firebase Integration
 14. [Productivity NoteTaking App :spiral_notepad:](productivity)
 15. [Localization Demo - Language settings in an app :india:	](locale_demo)
 
-## Note: 
+**Note:**
 Checkout the result of each app inside it's respective folder!
