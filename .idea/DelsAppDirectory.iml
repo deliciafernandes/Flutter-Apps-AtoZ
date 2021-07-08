@@ -3,16 +3,41 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/BmiCalci/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/BmiCalci/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigation-Practice/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Navigation-Practice/build" />
+      <excludeFolder url="file://$MODULE_DIR$/destiny/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/destiny/build" />
       <excludeFolder url="file://$MODULE_DIR$/dice/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dice/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flash/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flash/build" />
+      <excludeFolder url="file://$MODULE_DIR$/getcoin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/getcoin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_rich/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/i_am_rich/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/i_am_rich/build" />
+      <excludeFolder url="file://$MODULE_DIR$/kasharedemo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/kasharedemo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/locale_demo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/locale_demo/build" />
       <excludeFolder url="file://$MODULE_DIR$/magic-8-ball/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/magic-8-ball/build" />
       <excludeFolder url="file://$MODULE_DIR$/mi_card_flutter/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/mi_card_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/productivity/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/productivity/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler/build" />
+      <excludeFolder url="file://$MODULE_DIR$/rain_check/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/rain_check/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
